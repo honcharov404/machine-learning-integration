@@ -1,0 +1,20 @@
+{
+  "name": "machine-learning-integration",
+  "version": "1.0.1",
+  "description": "A simple JavaScript package for machine learning integration, allowing you to train and use machine learning models within your applications",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/honcharov404/machine-learning-integration.git"
+  },
+  "keywords": [
+    "machine",
+    "learning",
+    "integration"
+  ],
+  "author": "honcharov404",
+  "license": "MIT"
+}
