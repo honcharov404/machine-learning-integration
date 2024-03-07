@@ -1,6 +1,6 @@
 {
   "name": "machine-learning-integration",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple JavaScript package for machine learning integration, allowing you to train and use machine learning models within your applications",
   "main": "./src/index.js",
   "scripts": {
@@ -16,5 +16,8 @@
     "integration"
   ],
   "author": "honcharov404",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "simple-localization-app": "^1.0.1"
+  }
 }
